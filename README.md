@@ -4,9 +4,13 @@ Welcome to my portfolio! This repository showcases my work, skills, and projects
 
 # Table of Contents
 About Me
+
 Skills
+
 Projects
+
 Contact
+
 
 # About Me
 I am a passionate [Your Role, e.g., Front-end Developer] with experience in [Technologies/Skills you specialize in]. I love creating impactful websites and applications that provide real value to users.
