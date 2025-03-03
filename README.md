@@ -28,7 +28,8 @@ Version Control: Git, GitHub
 Description: Brief description of the project.
 Technologies Used: List of technologies/tools used.
 Link: Project Demo (if available)
-2. Project Title
+
+3. Project Title
 Description: Brief description of the project.
 Technologies Used: List of technologies/tools used.
 Link: Project Demo (if available)
@@ -38,5 +39,8 @@ Link: Project Demo (if available)
 You can reach me at:
 
 Email: your-email@example.com
+
 LinkedIn: LinkedIn Profile
+
 GitHub: GitHub Profile
+
