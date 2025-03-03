@@ -201,7 +201,7 @@ p {
 
 /* Home Section */
 #home {
-	background-image: url(portfolio\ photo.jpg);
+	background-image: url(background\ photo.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
